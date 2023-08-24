@@ -79,4 +79,6 @@ def main():
             break
 
 if __name__ == '__main__':
+    # Thanks for roboflow team
+    # https://www.youtube.com/watch?v=QV85eYOb7gk&t=947s
     main()
